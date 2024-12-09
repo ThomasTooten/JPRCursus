@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geluid?</title>
+    <link rel="stylesheet body" href="https://thomastooten.github.io/JPRCursus/T1.css">
+
+</head>
+<body>
+
+    <header>    <h1>Theory</h1></header>
+
+    <nav>
+        <a href="https://thomastooten.github.io/JPRSite/Main index/eartraining/index.html">Ear Training</a>
+        <a href="https://thomastooten.github.io/JPRSite/Main index/Blues Training/index.html">Blues Training</a>
+        <a href="https://thomastooten.github.io/JPRCursus/Leerboek/Index">Cursus</a>
+        <a href="https://integerbook.herokuapp.com">Leadsheets IRF</a>
+    </nav>
+</header>
+<main>
+<h2>Wat is een omkering van een akkoord?</h2>
+<p>In de muziektheorie wordt een akkoordomkering (inversie) gebruikt om een akkoord op een andere manier te spelen, waarbij de volgorde van de noten verandert. De grondtoon van het akkoord hoeft niet langer de laagste toon te zijn.</p>
+    
+<p>Bijvoorbeeld, een C-akkoord (C - E - G) heeft de volgende omkeringen:</p>
+<p>
+    <ul>
+        <li><strong>Eerste omkering:</strong> E - G - C (E is de laagste toon)</li>
+        <li><strong>Tweede omkering:</strong> G - C - E (G is de laagste toon)</li>
+    </ul>
+</p>
+    
+<p>
+    <h2>Voorbeeld: C-akkoord</h2>
+    <p>Een C-majeur akkoord in zijn verschillende omkeringen:</p>
+    <img src="https://thomastooten.github.io/JPRCursus/Leerboek/Basis/Omkering/OA.png">
+    <ul>
+        <li><strong>Grondligging:</strong> C - E - G</li>
+        <li><strong>Eerste omkering:</strong> E - G - C</li>
+        <li><strong>Tweede omkering:</strong> G - C - E</li>
+    </ul>
+</p>
+
+
+<p>Het gebruik van omkeringen helpt om melodieën en begeleidingen vloeiender te maken en zorgt voor variatie in de harmonie.</p>
+
+
+
+</main>
+</body>
+</html>
