@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geluid?</title>
+    <link rel="stylesheet body" href="https://thomastooten.github.io/JPRTheory/T1.css">
+
+</head>
+<body>
+
+    <header></header>
+    <h1>Theory</h1>
+    <nav>
+        <a href="https://thomastooten.github.io/JPRSite/Main index/eartraining/index.html">Ear Training</a>
+        <a href="https://thomastooten.github.io/JPRSite/Main index/Blues Training/index.html">Blues Training</a>
+        <a href="https://integerbook.herokuapp.com">Leadsheets IRF</a>
+    </nav>
+</header>
+<main>
+<h2>Bluesschema's</h2>
+<p>(Ex.2 is wat we een klassiek bluesschema noemen en Ex.3 is wat we een jazz blues schema noemen)</p>
+<img src="/Users/thomastooten/Documents/GitHub/JPRCursus/Leerboek/Basis/Bluesschema's/B1.png"/>
+<img src="/Users/thomastooten/Documents/GitHub/JPRCursus/Leerboek/Basis/Bluesschema's/B2.png"/>
+<img src="/Users/thomastooten/Documents/GitHub/JPRCursus/Leerboek/Basis/Bluesschema's/B3.png"/>
+<img src="/Users/thomastooten/Documents/GitHub/JPRCursus/Leerboek/Basis/Bluesschema's/B4.png"/>
+<img src="/Users/thomastooten/Documents/GitHub/JPRCursus/Leerboek/Basis/Bluesschema's/B5.png"/>
+<img src="/Users/thomastooten/Documents/GitHub/JPRCursus/Leerboek/Basis/Bluesschema's/B6.png"/>
+<img src="/Users/thomastooten/Documents/GitHub/JPRCursus/Leerboek/Basis/Bluesschema's/B7.png"/>
+<img src="/Users/thomastooten/Documents/GitHub/JPRCursus/Leerboek/Basis/Bluesschema's/B8.png"/>
+<img src="/Users/thomastooten/Documents/GitHub/JPRCursus/Leerboek/Basis/Bluesschema's/B9.png"/>
+
+
+</main>
+</body>
+</html>
