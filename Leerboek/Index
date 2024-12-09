@@ -24,48 +24,13 @@
         </section>
         <div id="links-container">
             <section>
-                <a class="link" href="https://thomastooten.github.io/JPRSite/Main index/eartraining/Sing the numbers/Tonal map/index.html">
+                <a class="link" href="https://thomastooten.github.io/JPRCursus/Leerboek/Basis/index.html">
                     <img src="Afbeeldingen/Eartraining.png" alt="Tonal Map" height="200" width="200">
-                    <span>Tonal map</span>
+                    <span>JPR 1</span>
+                    /Users/thomastooten/Documents/GitHub/JPRCursus/Leerboek/Basis/index.html
                 </a>
             </section>
-            <section>
-                <a class="link" href="https://thomastooten.github.io/JPRSite/Main index/eartraining/Sing the numbers/Seven Worlds/index.html">
-                    <img src="Afbeeldingen/Sevenworlds.png" alt="Seven Worlds" height="200" width="200">
-                    <span>Seven Worlds</span>
-                </a>
-            </section>
-            <section>
-                <a class="link" href="https://thomastooten.github.io/JPRSite/Main index/eartraining/Sing the numbers/02121Melody Paths/index.html">
-                    <img src="Afbeeldingen/Melody Path.png" alt="Melody Path" height="200" width="200">
-                    <span>Melody Paths</span>
-                </a>
-            </section>
-        </div>
-            <section>
-                <h2>Feel The Numbers</h2>
-            </section>
-            <div id="links-container">
-                <section>
-                    <a class="link" href="Feel The numbers/index.html">
-                        <img src="Afbeeldingen/FTN.webp" alt="Seven Worlds" height="200" width="200">
-                        <span>Module 1: Basis</span>
-                    </a>
-                </section>
-                <section>
-                    <a class="link" href="Feel The numbers/index.html">
-                        <img src="Afbeeldingen/FTN.webp" alt="Seven Worlds" height="200" width="200">
-                        <span>Module 2: Beginner</span>
-                    </a>
-                </section>
-                <section>
-                    <a class="link" href="Feel The numbers/index.html">
-                        <img src="Afbeeldingen/FTN.webp" alt="Seven Worlds" height="200" width="200">
-                        <span>Module 3: Gevorderd
-                    
-                        </span>
-                    </a>
-                </section>
+           
 
 
                 
