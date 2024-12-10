@@ -124,10 +124,12 @@ a:hover {
 ul {
     list-style-type: none; /* Remove bullets */
     padding: 0;
+    color: black
 }
 
 ul li {
     margin: 5px 0;
+    color: black
 }
 
 @media (max-width: 768px) {
